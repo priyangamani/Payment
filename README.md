@@ -4,6 +4,8 @@ I'm a FrontEnd/Mobile Engineer with more than 9 years of experience, currently w
 
 I've done all sorts of cool stuff throughout those years and some of them are listed below. Enjoy 😊
 
+https://coderbyte.com/question/array-addition-is-my-solution-too-easy
+
 
 Interview
 Work within a product team with a product manager, UX designers, and other developers to create solutions and apps focused on our customers’ needs;
