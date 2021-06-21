@@ -6,6 +6,8 @@ I've done all sorts of cool stuff throughout those years and some of them are li
 
 https://coderbyte.com/question/array-addition-is-my-solution-too-easy
 
+https://www.appsealing.com/react-native-security/
+
 
 Interview
 Work within a product team with a product manager, UX designers, and other developers to create solutions and apps focused on our customers’ needs;
